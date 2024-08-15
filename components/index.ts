@@ -1,0 +1,10 @@
+export { default as Nav } from "./Nav";
+export { default as Logo } from "./Logo";
+export { default as WrapperHeader } from "./WrapperHeader";
+export { default as TitleAndDescription } from "./TitleAndDescription";
+export { default as Footer } from "./Footer";
+export { default as IconGrid } from "./IconGrid";
+export { default as SwiperWrap } from "./SwiperWrap";
+export { default as Quote } from "./Quote";
+export { default as SeeMoreButton } from "./SeeMoreButton";
+export { default as Loader } from "./Loader";
